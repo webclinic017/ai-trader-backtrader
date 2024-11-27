@@ -27,7 +27,7 @@ For example, use a Triple RSI Rotation strategy to manage a stock portfolio.
 - Triple RSI rotation
 - Multi Bollinger Bands rotation
 
-### Machine learning based (in development)
+### Machine learning based (in development...)
 - Logistic regression
 - Feature engineering
 - Gradient boosting
